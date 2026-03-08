@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jess Flawless Sliding Doors LLC - Sliding Glass Patio Doors Repair News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest sliding glass patio doors repair news and tips from Jess Flawless Sliding Doors LLC in Tampa, Florida.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 15:42:57 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>Jessflawless117@gmail.com (Jess Flawless Sliding Doors LLC)</managingEditor>
+    <webMaster>Jessflawless117@gmail.com (Jess Flawless Sliding Doors LLC)</webMaster>
+    
+  </channel>
+</rss>
